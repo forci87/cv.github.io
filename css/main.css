@@ -1,0 +1,22 @@
+body{
+    font-family: 'Play', sans-serif;
+
+}
+
+header {
+    margin-top: 75px;
+}
+
+#testimonial {
+    background-color: rgb(221, 221, 221);
+    padding: 50px 0 30px 0;
+    text-align: center;
+    margin-top: 40px;
+}
+footer{
+    background: url(../img/smartphones.png)no-repeat center center fixed;
+    background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    -o-background-size: cover;
+}
